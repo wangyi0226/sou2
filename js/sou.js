@@ -82,12 +82,6 @@ var quick_list_preinstall = {
         img: "./icon/steam.ico",
         explain: "Steam",
     },
-    '5': {
-        title: "scp基金会",
-        url: "http://scp-wiki-cn.wikidot.com/",
-        img: "./icon/scp.png",
-        explain: "控制，收容，保护",
-    },
 };
 
 // 主题方案【预设】
