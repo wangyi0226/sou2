@@ -70,18 +70,6 @@ var quick_list_preinstall = {
         img: "./icon/github.ico",
         explain: "GitHub",
     },
-    '3': {
-        title: "V2EX",
-        url: "https://www.v2ex.com/",
-        img: "./icon/v2ex.png",
-        explain: "V2EX",
-    },
-    '4': {
-        title: "Steam",
-        url: "https://store.steampowered.com/",
-        img: "./icon/steam.ico",
-        explain: "Steam",
-    },
 };
 
 // 主题方案【预设】
